@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/bill.zhu/Documents/reactNativeDemo/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
